@@ -14,7 +14,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     
    
-<CyncRunner>ABLPageBreakTestRunner.xml</CyncRunner>
+<CyncRunner>testfour.xml</CyncRunner>
 <!-- <CyncRunner1>RegressionSuiteTestRunner.xml</CyncRunner1>
     <CyncRunner2>ProcessSummaryAgingTestRunner.xml</CyncRunner2>
      <CyncRunner3>BBCProcessTestRunner.xml</CyncRunner3>
